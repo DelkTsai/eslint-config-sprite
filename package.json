@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/spritejs/eslint-config-sprite#readme",
   "dependencies": {
-    "eslint-config-75team": "^1.0.22",
+    "eslint-config-75team": "^1.0.3",
     "eslint-plugin-import": "^2.13.0",
     "eslint-plugin-promise": "^3.8.0"
   }

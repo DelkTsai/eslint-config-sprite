@@ -5,7 +5,8 @@ module.exports = {
   extends:  "eslint-config-75team",
   plugins: ['import', 'promise'],
   rules: {
-    'semi-style': ["error", "first"],
+    'semi-style': 0,
+    'semi': ['error', 'always'],
     // 禁止一个文件中在忽略空行和注释之后行数超过1500行
     'max-lines': ['error', {
       max: 1500,
