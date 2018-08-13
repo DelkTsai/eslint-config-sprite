@@ -30,5 +30,6 @@ module.exports = {
     "import/no-duplicates": "error",
     "import/no-webpack-loader-syntax": "error",
     "promise/param-names": "error",
+    "qoutes": 'off',
   },
 }
