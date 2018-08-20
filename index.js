@@ -31,5 +31,6 @@ module.exports = {
     "import/no-webpack-loader-syntax": "error",
     "promise/param-names": "error",
     "qoutes": 'off',
+    "import/prefer-default-export": 'off'
   },
 }
